@@ -21,9 +21,8 @@ ____
 2. CarSm    	: A module that implements system state machine of the moving and obstacle detection mechanism.
 3. BCM_BasedApp : A module that represents a test application between two end-points -Transmitter & Receiver- based on BCM.
 #### Service Layer (SL)
-1. TMU      : A module that represents a timer management unit.
-2. BCM		: A module that represents a basic communication Module or protocol between micro controllers.
-----
+1.SOS:small operating system mange the tasks 
+---
 * ####   Components and packages used for implementing this work :
 
 | Name               		|   Description                      	  											  |
